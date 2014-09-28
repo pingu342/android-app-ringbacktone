@@ -21,5 +21,17 @@
 		android:layout_width="fill_parent"
 		android:layout_height="wrap_content"
 		/>
+	<Button
+		android:text="SetSpeakerphoneOn(true)"
+		android:id="@+id/SpeakerphoneOn"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		/>
+	<Button
+		android:text="SetSpeakerphoneOn(false)"
+		android:id="@+id/SpeakerphoneOff"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		/>
 </LinearLayout>
 
